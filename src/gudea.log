@@ -1,0 +1,282 @@
+
+
+############################################################################
+
+
+[2021-01-09 12:15:30]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=Archivo -encoding=OT1,T1,TS1,LY1 Gudea-Bold.otf Gudea-Italic.otf Gudea-Regular.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               rm (serif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    Gudea-Bold.otf
+        Name:       Gudea-Bold
+        Family:     Gudea
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   kern
+
+    Gudea-Italic.otf
+        Name:       Gudea-Italic
+        Family:     Gudea
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   kern
+
+    Gudea-Regular.otf
+        Name:       Gudea
+        Family:     Gudea
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   kern
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  
+    el  =>  
+    l   =>  
+    sl  =>  
+    m   =>  regular
+    sb  =>  
+    b   =>  bold
+    eb  =>  
+    ub  =>  
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    Gudea-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       kern
+            OT1     TLF     n       kern
+            T1      TLF     n       kern
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    Gudea-Italic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     it      kern
+            OT1     TLF     it      kern
+            T1      TLF     it      kern
+            TS1     TLF     it      
+
+    ------------------------------------------------------------------------
+
+    Gudea-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       kern
+            OT1     TLF     n       kern
+            T1      TLF     n       kern
+            TS1     TLF     n       
+
+
+############################################################################
+
+
+[2021-01-09 12:17:58]  /usr/local/texlive/2020/bin/x86_64-linux/autoinst, version 20201218
+
+Command was:
+
+    "/usr/local/texlive/2020/bin/x86_64-linux/autoinst -target=texmf -vendor=public -typeface=Gudea -encoding=OT1,T1,TS1,LY1 Gudea-Bold.otf Gudea-Italic.otf Gudea-Regular.otf"
+
+----------------------------------------------------------------------------
+
+I'm using the following options:
+
+    encoding(s):        OT1, T1, LY1
+    NFSS:               rm (serif)
+
+    lining:             yes
+    oldstyle:           yes
+    proportional:       yes
+    tabular:            yes
+    ts1:                yes
+    smallcaps:          yes
+    swash:              yes
+    titling:            yes
+    superiors:          yes
+    inferiors:          none
+    ornaments:          yes
+    fractions:          no
+    ligatures:          yes
+
+    target:             texmf
+    extra:              
+
+    figurekern:         keep
+
+    nfssweight:         
+    nfsswidth:          
+
+    math:               no
+    mathspacing:        0
+
+    fontname suffix:    (none)
+
+----------------------------------------------------------------------------
+
+Results of font info parsing:
+
+    Gudea-Bold.otf
+        Name:       Gudea-Bold
+        Family:     Gudea
+        Subfamily:  
+        Weight:     bold (700)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   kern
+
+    Gudea-Italic.otf
+        Name:       Gudea-Italic
+        Family:     Gudea
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      italic 
+        Size:       0-0
+        Features:   kern
+
+    Gudea-Regular.otf
+        Name:       Gudea
+        Family:     Gudea
+        Subfamily:  
+        Weight:     regular (400)
+        Width:      regular (5)
+        Shape:      roman 
+        Size:       0-0
+        Features:   kern
+
+----------------------------------------------------------------------------
+
+NFSS mappings:
+
+    ul  =>  
+    el  =>  
+    l   =>  
+    sl  =>  
+    m   =>  regular
+    sb  =>  
+    b   =>  bold
+    eb  =>  
+    ub  =>  
+
+    uc  =>  
+    ec  =>  
+    c   =>  
+    sc  =>  
+    m   =>  regular
+    sx  =>  
+    x   =>  
+    ex  =>  
+    ux  =>  
+
+    ------------------------------------------------------------------------
+
+    Gudea-Bold.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       kern
+            OT1     TLF     n       kern
+            T1      TLF     n       kern
+            TS1     TLF     n       
+
+    ------------------------------------------------------------------------
+
+    Gudea-Italic.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     it      kern
+            OT1     TLF     it      kern
+            T1      TLF     it      kern
+            TS1     TLF     it      
+
+    ------------------------------------------------------------------------
+
+    Gudea-Regular.otf
+
+        Generating these encodings, figure styles and shapes:
+
+            ENC     STYLE   SHAPE   FEATURES USED
+
+            LY1     TLF     n       kern
+            OT1     TLF     n       kern
+            T1      TLF     n       kern
+            TS1     TLF     n       
